@@ -34,10 +34,9 @@ make
 ```
 
 #### Arguments:
-  -h, --help            show this help message and exit
-  -i HOST, --host HOST  IP address of the API
-  -p PORT, --port PORT  Host of the API
-  -n X_MIN_VALUE, --max X_MIN_VALUE
-                        Min. value
-  -x X_MAX_VALUE, --min X_MAX_VALUE
-                        Max. value
+
+    -h, --help            show this help message and exit
+    -i HOST, --host HOST  IP address of the API
+    -p PORT, --port PORT  Host of the API
+    -n X_MIN_VALUE, --max Min. value
+    -x X_MAX_VALUE, --min Max. value  
